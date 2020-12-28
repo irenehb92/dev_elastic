@@ -1,6 +1,4 @@
-{
-  "apps": {
-    "app": [
+[
       {
         "id": "application_1607011391011_0856",
         "user": "afiatc_proces",
@@ -116,5 +114,3 @@
         }
       }
     ]
-  }
-}
